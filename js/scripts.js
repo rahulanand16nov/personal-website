@@ -22,11 +22,12 @@ window.onload = function() {
   }
 
   var messages = [
-    'Hi 👋',
-    'I\'m Rahul, a student studying Computer Engineering at the Thapar University',
+    'Hi! 👋',
+    'I\'m Rahul, a Computer Engineering student at the Thapar University',
     'I like to build tech and play basketball in my free time',
-    'I\'m currently studying in school and getting ready for my first summer internship!<br> You can contact me at <a href="mailto:rahulanand16nov@gmail.com">rahulanand16nov@gmail.com</a>',
-    '<a target="_blank" href="https://github.com/rahulanand16nov/">https://github.com/rahulanand16nov/</a><br><a target="_blank" href="https://linkedin.com/in/rahul-anand-nov">https://linkedin.com/in/rahul-anand-nov</a>',
+    'I\'m currently studying at school - probably while listening to <a target="_blank" href="https://open.spotify.com/user/lr4nznol23y0qu3066w2yab9m?si=ZSW4kuz_SLe65KuHGduYNA">🎧 music</a>', 
+    'You can contact me at <a href="mailto:rahulanand16nov@gmail.com">rahulanand16nov@gmail.com, or</a>',
+    '<a target="_blank" href="https://github.com/rahulanand16nov/">Github Page</a><br><a target="_blank" href="https://linkedin.com/in/rahul-anand-nov">LinkedIn Page</a><br><a target="_blank" href="resume.pdf">My Resume</a>',
     getCurrentTime(),
     'Thanks for visiting!',
     '- Rahul.'
